@@ -64,7 +64,7 @@ rss_feed = f"""<?xml version="1.0" encoding="UTF-8"?>
     <title>{PODCAST_TITLE}</title>
     <link>{PODCAST_LINK}</link>
     <language>{PODCAST_LANGUAGE}</language>
-    <description>{PODCAST_DESCRIPTION}</description>
+    <description>{PODCAST_DESCRIPTION}RSSVERIFY</description>
     <itunes:author>{PODCAST_AUTHOR}</itunes:author>
     <itunes:explicit>false</itunes:explicit>
     <itunes:image href="{PODCAST_IMAGE}"/>
