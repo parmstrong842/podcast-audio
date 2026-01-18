@@ -12,7 +12,7 @@ PODCAST_LANGUAGE = "en-us"
 
 # Base URL for GitHub audio files
 BASE_URL = "https://github.com/user-attachments/files/"
-START_NUMBER = 24698479  # first number in your sequence
+START_NUMBER = 24698754  # first number in your sequence
 
 XML_FILE = "episodes_metadata.xml"  # your XML metadata file
 OUTPUT_FILE = "podcast.xml"
